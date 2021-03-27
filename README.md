@@ -19,6 +19,9 @@
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+##
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=junsantilla&repo=junsantilla&countColorcountColor&countColor=%237B1E7B"/>
 
 <!--
 **junsantilla/junsantilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
